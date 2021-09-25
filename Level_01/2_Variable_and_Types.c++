@@ -1,3 +1,4 @@
+PROBLEM LINK:https://www.interviewbit.com/problems/variable-and-types/
 #include<iostream>
 #include <iomanip> 
 using namespace std;
