@@ -1,3 +1,5 @@
+PROBLEM LINK: https://www.interviewbit.com/problems/conditional-or-ternary-expression/
+
 #include<iostream>
 
 using namespace std;
