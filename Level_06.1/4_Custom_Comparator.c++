@@ -1,3 +1,5 @@
+PROBLEM LINK: https://www.interviewbit.com/problems/custom-comparator/
+
 //#include<bits/stdc++.h>
 //using namespace std;
 bool comp(pair<int, int> a, pair<int, int> b){
