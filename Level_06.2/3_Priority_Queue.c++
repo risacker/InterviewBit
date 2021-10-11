@@ -1,3 +1,5 @@
+PROBLEM LINK: https://www.interviewbit.com/problems/priority_queue/
+
 int solve(vector<int> &A){
     priority_queue<int, vector<int>, greater<int>> pq; 
     int cost = 0;
