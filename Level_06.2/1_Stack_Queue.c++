@@ -1,3 +1,5 @@
+PROBLEM LINK: https://www.interviewbit.com/problems/stack-queue/
+
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
